@@ -1,1 +1,3 @@
 # seven_segment_display
+Seven-Segment LED Display Simulation
+This project simulates the display of non-negative integers using a "seven-segment" style device, commonly seen in digital displays. Each digit is represented by a set of 13 LEDs forming a specific pattern. The goal is to allow the user to enter multiple numbers sequentially and see their representation in LED segments. The program uses a predefined list of patterns for each digit (0 to 9) and constructs the display by combining these patterns. The user can continue to enter numbers until they choose to quit the program by entering 'q'. 
